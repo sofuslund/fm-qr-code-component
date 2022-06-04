@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [github](https://github.com/sofuslund/fm-qr-code-component)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/qr-code-component-using-tailwind-css-fcjOhA98jq)
 - Live Site URL: [netlify](https://fm04-fm-qr-code-component.netlify.app/)
 
 ### Built with
